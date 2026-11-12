@@ -13,7 +13,7 @@ OUTPUT = "playlist.m3u8"
 BASE_URL = "http://223.25.71.211:5001/live/{:03d}.m3u8"
 MAX_WORKERS = 40
 TIMEOUT = 6
-TOTAL = 3500
+TOTAL = 5500
 
 
 def extract_name(content: str, fallback: str) -> str:
