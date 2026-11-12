@@ -14,7 +14,7 @@ OUTPUT = "playlist.m3u8"
 BASE_URL = "http://223.25.71.211:5001/live/{:03d}.m3u8"
 MAX_WORKERS = 25          # lower because ffprobe is heavier
 TIMEOUT = 6
-TOTAL = 3500
+TOTAL = 5500
 FFPROBE_TIMEOUT = 12      # seconds
 
 def extract_name_from_m3u8(content: str) -> str | None:
