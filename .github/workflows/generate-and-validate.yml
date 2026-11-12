@@ -5,16 +5,22 @@ on:
     branches: [main]
   schedule:
     - cron: "0 3 * * *"      # every day at 03:00 UTC
-  workflow_dispatch:          # manual button
+  workflow_dispatch:
+
+# ↓↓↓ THIS IS THE IMPORTANT PART ↓↓↓
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 45       # safety limit
+    timeout-minutes: 45
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,12 +30,13 @@ jobs:
       - name: Generate playlist (only working streams)
         run: python generate_playlist.py
 
-      - name: Commit updated playlist
+      - name: Commit & push updated playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
+
           git add playlist.m3u8
+
           if git diff --staged --quiet; then
             echo "No changes in playlist"
           else
