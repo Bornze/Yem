@@ -165,6 +165,8 @@ http://223.25.71.211:5001/live/1408.m3u8
 http://223.25.71.211:5001/live/1410.m3u8
 #EXTINF:-1,Channel 1411
 http://223.25.71.211:5001/live/1411.m3u8
+#EXTINF:-1,Channel 1414
+http://223.25.71.211:5001/live/1414.m3u8
 #EXTINF:-1,Channel 1415
 http://223.25.71.211:5001/live/1415.m3u8
 #EXTINF:-1,Channel 1417
@@ -187,6 +189,8 @@ http://223.25.71.211:5001/live/1450.m3u8
 http://223.25.71.211:5001/live/1452.m3u8
 #EXTINF:-1,Channel 1453
 http://223.25.71.211:5001/live/1453.m3u8
+#EXTINF:-1,Channel 1454
+http://223.25.71.211:5001/live/1454.m3u8
 #EXTINF:-1,Channel 1455
 http://223.25.71.211:5001/live/1455.m3u8
 #EXTINF:-1,Channel 1458
@@ -641,8 +645,6 @@ http://223.25.71.211:5001/live/3086.m3u8
 http://223.25.71.211:5001/live/3087.m3u8
 #EXTINF:-1,Channel 3088
 http://223.25.71.211:5001/live/3088.m3u8
-#EXTINF:-1,Channel 3089
-http://223.25.71.211:5001/live/3089.m3u8
 #EXTINF:-1,Channel 3095
 http://223.25.71.211:5001/live/3095.m3u8
 #EXTINF:-1,Channel 3107
@@ -769,8 +771,6 @@ http://223.25.71.211:5001/live/3221.m3u8
 http://223.25.71.211:5001/live/3231.m3u8
 #EXTINF:-1,Channel 3232
 http://223.25.71.211:5001/live/3232.m3u8
-#EXTINF:-1,Channel 3237
-http://223.25.71.211:5001/live/3237.m3u8
 #EXTINF:-1,Channel 3239
 http://223.25.71.211:5001/live/3239.m3u8
 #EXTINF:-1,Channel 3240
@@ -813,8 +813,6 @@ http://223.25.71.211:5001/live/3297.m3u8
 http://223.25.71.211:5001/live/3298.m3u8
 #EXTINF:-1,Channel 3300
 http://223.25.71.211:5001/live/3300.m3u8
-#EXTINF:-1,Channel 3302
-http://223.25.71.211:5001/live/3302.m3u8
 #EXTINF:-1,Channel 3304
 http://223.25.71.211:5001/live/3304.m3u8
 #EXTINF:-1,Channel 3313
