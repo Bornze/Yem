@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194396" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg",Gemini TV
+#EXTINF:-1 group-title="Telugu" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194396" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg",Gemini TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2ec6fa5b77ff4223a376c2b98032fbf8:afe96f602fd6abedcd9c2c8cdf799afd
 https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg", Gemini HD
+#EXTINF:-1 group-title="Telugu" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg", Gemini HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
 https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="192537" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg", Gemini Movies HD
+#EXTINF:-1 group-title="Telugu" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="192537" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg", Gemini Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
 https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194384" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg", Gemini Movies
+#EXTINF:-1 group-title="Telugu" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194384" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg", Gemini Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
 https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194393" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg", Gemini Music HD
+#EXTINF:-1 group-title="Telugu" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194393" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg", Gemini Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
 https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" ,Gemini Music
+#EXTINF:-1 group-title="Telugu" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" ,Gemini Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
 https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194394" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg",Gemini Comedy
+#EXTINF:-1 group-title="Telugu" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194394" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg",Gemini Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
 https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
@@ -36,7 +36,7 @@ https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/main.mpd
 
 
-#EXTINF:-1 tvg-name="Zee Telugu HD By @sayan10" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Indian Channels By @sayan10", Zee Telugu HD @sayan10
+#EXTINF:-1 tvg-name="Zee Telugu HD By @sayan10" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Telugu", Zee Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
@@ -98,6 +98,35 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.ibb.co.com/HYzgFbZ/tsn1.png" group-title="Sports", TSN 1 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://i.ibb.co.com/5r1nzp5/tsn2.png" group-title="Sports", TSN 2 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://i.ibb.co.com/r6FWmrW/tsn3.png" group-title="Sports", TSN 3 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://i.ibb.co.com/PxGj1GQ/tsn4.png" group-title="Sports", TSN 4 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://i.ibb.co.com/F4dfsDM/tsn5.png" group-title="Sports", TSN 5 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
 
 
